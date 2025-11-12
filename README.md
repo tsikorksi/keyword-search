@@ -13,4 +13,8 @@ http://localhost:5000/%s
 ```
 - search with "in <key>"
 
-The .pyw ending means it should run in the background by default, and Flask debug mode means that it will auto update, so to add more keywords simply edit the file and add to the dictionary, then save the file. 
+The .pyw ending means it should run in the background by default, and Flask debug mode means that it will auto update, so to add more keywords simply edit the file and add to the dictionary, then save the file.
+
+## Requirements
+- Python 3.6+
+- Flask 
