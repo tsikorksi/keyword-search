@@ -1,5 +1,6 @@
 # keyword-search
-Using a browser keyword, instantly jump to a webpage in your browser
+Using a browser keyword, instantly jump to a webpage in your browser.
+
 This way for example with the keyword "in" you can instantly jump to your mail box by typing "in mail" in your search bar.
 
 ## Setup
